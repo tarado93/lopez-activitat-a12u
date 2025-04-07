@@ -87,6 +87,14 @@ Aquesta activitat consisteix a crear una taula amb l’objectiu d’organitzar i
 | Minim 5 commits                       | 2     |
 | **Total**                             | **10**|
 
+## Marcas prohibides 
+
+Per posar una mica de dificultat a l'activitat , prohibire les marcas mes casuals , com :
+
+- Nike
+- Adidas
+- Zara
+- Pull&Bear
 
  
 
