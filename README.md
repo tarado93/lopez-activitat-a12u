@@ -69,7 +69,12 @@ Aquesta activitat consisteix a crear una taula amb l’objectiu d’organitzar i
  - 4. **Pujar el commit a GitHub**:
    ```bash
    git push origin main
-   ```
+
+## Consells
+
+- Escolleix les primeras cosas que et vinguin al cap, aixi no et complicaras
+- Pensa en marques que siguin façils de buscar prendas.
+- Ajudat de companys per implementar els nous conceptes , com les imatges i els enllaços.
 
 
  
