@@ -50,7 +50,7 @@ Aquesta activitat consisteix a crear una taula amb l’objectiu d’organitzar i
 2. **PENSAR EN LAS TEVES MARCAS**
  - Pensa en (minim 4) marques que t agradin.
 
-3. **Crea la taula**
+3. **Crea el fitxer README.md**
  - Crea la taula i posa totes les dades demanadas.
 
 4. **Fes commits a cada punt importnat**
@@ -69,6 +69,33 @@ Aquesta activitat consisteix a crear una taula amb l’objectiu d’organitzar i
  - 4. **Pujar el commit a GitHub**:
    ```bash
    git push origin main
+
+## Com crear fitxer README.md
+
+1. A **VS Code**, crear un fitxer nou anomenat **`README.md`**.
+
+2. Escriure el següent contingut:
+
+   ```markdown
+   # Repositori de pràctica
+   
+   Aquest és un projecte de pràctica per aprendre Git, GitHub i Markdown.
+   
+   ## Formatació amb Markdown
+   
+   **Negreta**, *cursiva*, i [un enllaç a Google](https://www.google.com).
+   
+   ### Exemple de Taula
+   
+   | Nom      | Edat | Ciutat     |
+   |----------|------|-----------|
+   | Anna     | 25   | Barcelona |
+   | Marc     | 30   | Girona    |
+   ```
+
+3. Desa el fitxer (`Ctrl + S`).
+
+<hr>
 
 ## Consells
 
@@ -95,6 +122,8 @@ Per posar una mica de dificultat a l'activitat , prohibire les marcas mes casual
 - Adidas
 - Zara
 - Pull&Bear
+
+
 
  
 
