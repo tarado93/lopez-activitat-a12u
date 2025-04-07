@@ -76,6 +76,17 @@ Aquesta activitat consisteix a crear una taula amb l’objectiu d’organitzar i
 - Pensa en marques que siguin façils de buscar prendas.
 - Ajudat de companys per implementar els nous conceptes , com les imatges i els enllaços.
 
+## Criteris d’avaluació
+
+|Criteri                                | Punts |
+|---------------------------------------|-------|
+| Minim 4 prendas                       | 2     |
+| Enllaços correctes                    | 2     |
+| Imatges es veuen correctament         | 2     |
+| Taula ven feta i cuadrada             | 2     |
+| Minim 5 commits                       | 2     |
+| **Total**                             | **10**|
+
 
  
 
