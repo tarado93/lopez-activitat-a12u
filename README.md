@@ -8,5 +8,9 @@ Aquesta activitat consisteix a crear una taula amb l’objectiu d’organitzar i
     -Preu
     -Imatge
     -Enllaç web de la marca
-    
+
+## Temps de dedicació:
+
+* 3 hores
+
 
